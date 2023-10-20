@@ -1,0 +1,5 @@
+export { default as DeleteDialog } from './DeleteDialog/DeleteDialog'
+export { default as Footer } from './Footer/Footer'
+export { default as Header } from './Header/Header'
+export { default as InfoTable } from './InfoTable/InfoTable'
+export { default as Page } from './Page/Page'
